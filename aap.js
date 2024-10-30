@@ -1,4 +1,4 @@
-function criaCartao(categoria, pergunta, resposta){
+function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container');
     let cartao = document.createElement('article');
     cartao.classname = 'cartao';
@@ -10,6 +10,7 @@ function criaCartao(categoria, pergunta, resposta){
                         <p>${pergunta}</p>
                     </div>
                     <div class="cartao__conteudo__resposta">
+                    <p>${pergunta}</p>
                         <p>O JavaScript é uma linguagem de programação</p>
                     </div>
                 </div>
