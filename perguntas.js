@@ -15,7 +15,7 @@ criaCartao(
 criaCartao(
     'conhecimentos gerais',
     'Qual o livro mais vendido no mundo a seguir à Bíblia?',
-    'Dom quixote'
+    'Dom Quixote'
 
 )
 
