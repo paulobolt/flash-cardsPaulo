@@ -1,14 +1,14 @@
 criaCartao(
     'conhecimentos gerais',
     'De onde é a invenção do chuveiro elétrico?',
-    'brasil'
+    'Brasil'
 
 )
 
 criaCartao(
     'conhecimentos gerais',
     'Quais o menor e o maior país do mundo?',
-    'Vaticano e russia'
+    'Vaticano e Russia'
 
 )
 
